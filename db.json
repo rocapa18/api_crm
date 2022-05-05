@@ -1,0 +1,44 @@
+{
+  "clientes": [
+    {
+      "nombre": "Roberto",
+      "empresa": "RCP S.A.",
+      "email": "roberto@gmail.com",
+      "telefono": "2617216872",
+      "notas": "El cliente solicita un producto",
+      "id": 1
+    },
+    {
+      "nombre": "Carlos",
+      "empresa": "La gran Siete",
+      "email": "carlos@gmail.com",
+      "telefono": "123456789",
+      "notas": "Mensaje de Carlitos",
+      "id": 3
+    },
+    {
+      "nombre": "Alberto",
+      "empresa": "Alberticia S.A.",
+      "email": "alberto@alberto.com",
+      "telefono": "987654321",
+      "notas": "Es un Albertengo",
+      "id": 4
+    },
+    {
+      "nombre": "Daniel",
+      "empresa": "Daniels S.A.",
+      "email": "daniel@gmail.com",
+      "telefono": "34567889",
+      "notas": "",
+      "id": 5
+    },
+    {
+      "nombre": "Edgar",
+      "empresa": "Edgaration S.A.",
+      "email": "edgar@gmail.com",
+      "telefono": "345346565",
+      "notas": "Que quieres que te diga",
+      "id": 7
+    }
+  ]
+}
